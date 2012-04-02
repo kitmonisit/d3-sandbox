@@ -1,0 +1,3 @@
+[submodule "pictograms"]
+	path = pictograms
+	url = git@gist.github.com:2280295.git
